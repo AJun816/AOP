@@ -27,7 +27,7 @@ namespace PrismUnityAop.Behavior
             User user = new User()
             {
                 Name = "张三",
-                Password = "123456"
+                Password = "1234567890"
             };
 
 

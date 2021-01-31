@@ -42,3 +42,4 @@ D:\GitHub\Volador816\AOP\AOP\obj\Debug\AOP.csproj.CoreCompileInputs.cache
 D:\GitHub\Volador816\AOP\AOP\obj\Debug\AOP.csproj.CopyComplete
 D:\GitHub\Volador816\AOP\AOP\obj\Debug\AOP.exe
 D:\GitHub\Volador816\AOP\AOP\obj\Debug\AOP.pdb
+D:\GitHub\Volador816\AOP\AOP\obj\Debug\AOP.csprojAssemblyReference.cache
