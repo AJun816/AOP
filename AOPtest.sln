@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismUnityAop", "..\测试\PrismUnityAop学习\PrismUnityAop.csproj", "{BC08D441-F05C-4E26-A55B-DBFBAD240778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP", "AOP\AOP.csproj", "{1781D6B1-AC32-46EB-A040-9AC585947DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC08D441-F05C-4E26-A55B-DBFBAD240778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC08D441-F05C-4E26-A55B-DBFBAD240778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC08D441-F05C-4E26-A55B-DBFBAD240778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC08D441-F05C-4E26-A55B-DBFBAD240778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1781D6B1-AC32-46EB-A040-9AC585947DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1781D6B1-AC32-46EB-A040-9AC585947DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1781D6B1-AC32-46EB-A040-9AC585947DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1781D6B1-AC32-46EB-A040-9AC585947DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41A8991-D6D9-458F-B749-93324AA93A4F}
+	EndGlobalSection
+EndGlobal

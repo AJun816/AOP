@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7DT/G0KmlnqVHmJbluvGp+6MvASurlqAx55SOVan4OwHL7iBVEIr3b2CG2eNdxGtfOVFTpnuRz6mmti266OAA==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectCode\\VsProject\\AOPtest\\AOPtest\\AOPtest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fishpond\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\prism.unity\\8.0.0.1909\\prism.unity.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\unity.abstractions\\5.11.6\\unity.abstractions.5.11.6.nupkg.sha512",
+    "C:\\Users\\fishpond\\.nuget\\packages\\unity.container\\5.11.8\\unity.container.5.11.8.nupkg.sha512"
+  ],
+  "logs": []
+}
