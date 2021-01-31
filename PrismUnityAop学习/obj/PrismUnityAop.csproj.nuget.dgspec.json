@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\Volador816\\AOP\\PrismUnityAop学习\\PrismUnityAop.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\Volador816\\AOP\\PrismUnityAop学习\\PrismUnityAop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Volador816\\AOP\\PrismUnityAop学习\\PrismUnityAop.csproj",
+        "projectName": "PrismUnityAop",
+        "projectPath": "D:\\GitHub\\Volador816\\AOP\\PrismUnityAop学习\\PrismUnityAop.csproj",
+        "packagesPath": "C:\\Users\\fishpond\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Volador816\\AOP\\PrismUnityAop学习\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\fishpond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Unity.Configuration": {
+              "target": "Package",
+              "version": "[5.11.2, )"
+            },
+            "Unity.Interception": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            },
+            "Unity.Interception.Configuration": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
